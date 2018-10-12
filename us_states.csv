@@ -1,6 +1,6 @@
 Name,Region,Income,MinWage
-Alabama,South,37508,
-Alaska,West,63610,9.84
+Alabama,South,37508,na
+Alaska,West,636100,9.84
 Arizona,West,39583,10.5
 Arkansas,South,36714,8.5
 California,West,60359,11
@@ -22,7 +22,7 @@ Maryland,South,56375,9.25
 Massachusetts,Northeast,66500,11
 Michigan,Midwest,44201,9.25
 Minnesota,Midwest,54805,9.65
-Mississippi,South,32447,
+Mississippi,South,32447,na
 Missouri,Midwest,43036,7.85
 Montana,West,39833,8.3
 Nebraska,Midwest,54654,9
@@ -43,7 +43,7 @@ South Dakota,Midwest,48004,8.85
 Tennesse,South,44348,
 Texas,South,53737,7.25
 Utah,West,45493,7.25
-Vermont,Northeast,44831,10.5
+Vermont,Northeast,44831,110.5
 Virginia,South,52124,7.25
 Washington,West,59333,11.5
 West Virginia,South,37353,8.75
